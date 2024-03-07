@@ -130,7 +130,7 @@ public class Login {
 		    
 		   driver.findElement(By.xpath("//span[@class='__className_072d70 text-primary-red']")).click();
 		   
-		   driver.findElement(By.xpath("//input[@placeholder='Game Title']")).sendKeys("Test Purpose Game1");
+		   driver.findElement(By.xpath("//input[@placeholder='Game Title']")).sendKeys("Test Purpose Games Test");
 		   
 		   
 		   
